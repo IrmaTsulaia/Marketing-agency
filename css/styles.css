@@ -194,7 +194,6 @@ margin-bottom: 24px;}
     margin-left: 900px; }
    
 .button {width: 200px;
-<<<<<<< HEAD
     height: 48px;
     font-style: normal;
     font-weight: 600;
@@ -224,37 +223,6 @@ margin-top: 50px;}
     font-family: 'Inter', sans-serif;}
 
  .fa-solid {margin-right: 30px;}
-=======
-    height: 60px;
-    font-style: normal;
-    font-weight:900px;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.1px;
-    color: #B63613;
-    background: transparent;
-    border-radius: 32px;
-    border: none; 
-    margin-left: 300px;
-    margin-top: 30px;
-    }
-.fa-solid {margin-right: 20px;}
-
-.button1 {width: 200px;
-height: 60px;
-font-style: normal;
-font-weight:900px;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.1px;
-color: #B63613;
-background: transparent;
-border-radius: 32px;
-border: none; 
-margin-left: 1000px;
-margin-top: 30px;
-}
->>>>>>> 334fd3670b3949f1dfd9ea87a4efe721d29b144d
 
    
 .title3 {width: 300px;
